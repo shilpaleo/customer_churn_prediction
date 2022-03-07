@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/shilpa/Documents/01_Personal/Interviews/WarnerMedia/notebooks/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: customer churn prediction
